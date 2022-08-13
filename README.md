@@ -1,33 +1,16 @@
-<h2> Hey there! I'm Asutosh
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+# 💫 About Me:
+I'm currentl working on DevOps.<br>I'm looking to collaborate on opesource contributions to projects of CNCF.<br>I'm looking for help to get into more Opensource Communities.<br>I'm currently learning Golang & ArgoCD<br>Ask me about DevOps/SRE practices.<br>Fun fact : I am into filmography & cinematography.
 
-<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Full Stack Web Development
-- 🤔 &nbsp; Working in TCS,India as a DevOps Engineer 
-- 🎓 &nbsp; I have worked on new technologies and developed software solutions for clients.
-- 💼 &nbsp; Learning more on K8s, Docker, CI/CD pipeline.
-- 🌱 &nbsp; Enthusiast in SRE and DevOps concepts.
-- ✍️ &nbsp; Watching movies, web series and trying to understand the world of movie making, cinematography.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/measutosh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/measutosh9) 
 
-<br>
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=measutosh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=measutosh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=measutosh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | C | Java   
-- 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; GitHub | BitBucket | Azure Devops | GitLab (CI/CD Pipeline)
-- 🔧 &nbsp; Ansible | Docker | K8s | Azure | GCP
-- 🖥 &nbsp; Data Structures | System Design | Distributed Systems 
-
-<br>
-  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=meAsutosh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats">
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">  
-&nbsp; <a href="www.linkedin.com/in/asutosh-panda-531519154" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:crispyasutoshpanda@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
+---
+[![](https://visitcount.itsvg.in/api?id=measutosh&icon=0&color=0)](https://visitcount.itsvg.in)
