@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/measutosh9" target="blank"><img src="https://img.shields.io/twitter/follow/measutosh9?logo=twitter&style=for-the-badge" alt="measutosh9" /></a> </p>
 
-- I’m currently working on different DevOps tools on [devops-gallery](https://github.com/measutosh/devops-gallery)
+- I’m currently working on different DevOps tools, see this repo [devops-gallery](https://github.com/measutosh/devops-gallery)
 
 - I’m currently learning **Golang, ArgoCD, DSA**
 
-- I’m learning and building projects in Golang on [go-gallery](https://github.com/measutosh/go-gallery)
+- I’m learning and building projects in Golang, see this repo [go-gallery](https://github.com/measutosh/go-gallery)
 
 - Contributor to Gitlab, Drone, Meshery. FInd all the contributions here - [https://gitlab.com/measutosh/measutosh/-/blob/main/README.md](https://gitlab.com/measutosh/measutosh/-/blob/main/README.md)
 
 - 📝 I regularly write articles on [https://measutosh.hashnode.dev](https://measutosh.hashnode.dev)
 
-- 💬 Ask me about **DevOps/SRE, Goalng, Software Design Patterns**
+- 💬 Ask me about **DevOps/SRE, Golang, Software Design Patterns**
 
 - 📫 How to reach me **crispyasutoshpanda2@gmail.com**
 
