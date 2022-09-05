@@ -11,7 +11,7 @@
 
 - I’m learning and building projects in Golang, see this repo [go-gallery](https://github.com/measutosh/go-gallery)
 
-- Contributor to Gitlab, Drone, Meshery. FInd all the contributions here - [https://gitlab.com/measutosh/measutosh/-/blob/main/README.md](https://gitlab.com/measutosh/measutosh/-/blob/main/README.md)
+- Contributor and part of the community of Gitlab, Drone, Mashery. FInd all the contributions here - [https://gitlab.com/measutosh/measutosh/-/blob/main/README.md](https://gitlab.com/measutosh/measutosh/-/blob/main/README.md)
 
 - 📝 I regularly write articles on [https://measutosh.hashnode.dev](https://measutosh.hashnode.dev)
 
