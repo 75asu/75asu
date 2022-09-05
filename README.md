@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/measutosh9" target="blank"><img src="https://img.shields.io/twitter/follow/measutosh9?logo=twitter&style=for-the-badge" alt="measutosh9" /></a> </p>
 
-- I’m currently working on different DevOps tools, see this repo [devops-gallery](https://github.com/measutosh/devops-gallery)
-
-- I’m currently learning **Golang, ArgoCD, DSA**
+- I’m currently working on different DevOps tools and building projects around them, see this repo [devops-gallery](https://github.com/measutosh/devops-gallery)
 
 - I’m learning and building projects in Golang, see this repo [go-gallery](https://github.com/measutosh/go-gallery)
 
-- Contributor and part of the community of Gitlab, Drone, Mashery. FInd all the contributions here - [https://gitlab.com/measutosh/measutosh/-/blob/main/README.md](https://gitlab.com/measutosh/measutosh/-/blob/main/README.md)
+- Contributor of Gitlab, Drone, Meshery. FInd all the contributions here - [https://gitlab.com/measutosh/measutosh/-/blob/main/README.md](https://gitlab.com/measutosh/measutosh/-/blob/main/README.md)
+
+- Member of Layer5, CNCF, Kubernetes, Harness community.
 
 - 📝 I regularly write articles on [https://measutosh.hashnode.dev](https://measutosh.hashnode.dev)
 
