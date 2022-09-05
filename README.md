@@ -9,6 +9,8 @@
 
 - I’m learning and building projects in Golang, see this repo [go-gallery](https://github.com/measutosh/go-gallery)
 
+- I've built 40 projects in 40days using no framework, pure HTML/CSS/JS as part of a challenge, see this repo [frontend-gallery](https://github.com/measutosh/frontend-gallery)
+
 - Contributor of Gitlab, Drone, Meshery. FInd all the contributions here - [https://gitlab.com/measutosh/measutosh/-/blob/main/README.md](https://gitlab.com/measutosh/measutosh/-/blob/main/README.md)
 
 - Member of Layer5, CNCF, Kubernetes, Harness community.
