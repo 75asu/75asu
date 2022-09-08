@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/measutosh9" target="blank"><img src="https://img.shields.io/twitter/follow/measutosh9?logo=twitter&style=for-the-badge" alt="measutosh9" /></a> </p>
 
-- I’m currently working on different DevOps tools and building projects around them, see this repo [devops-gallery](https://github.com/measutosh/devops-gallery)
 
-- I’m learning and building projects in Golang, see this repo [go-gallery](https://github.com/measutosh/go-gallery)
+- Contributing to Gitlab, Drone, Meshery, Layer5. Find all the contributions - [Merge Request List](https://gitlab.com/measutosh/measutosh/-/blob/main/README.md)
 
-- I've built 40 projects in 40days using no framework, pure HTML/CSS/JS as part of a challenge, see this repo [frontend-gallery](https://github.com/measutosh/frontend-gallery)
+- Learning Golang, DevOps and Cloud Native. Check these repos - [go-gallery](https://github.com/measutosh/go-gallery), [devops-gallery](https://github.com/measutosh/devops-gallery)
 
-- Contributor of Gitlab, Drone, Meshery. Find all the contributions here - [Merge Request List](https://gitlab.com/measutosh/measutosh/-/blob/main/README.md)
-
-- Member of Layer5, CNCF, Kubernetes, Harness community.
+- Built 40 projects in 40days, no framework, pure HTML/CSS/JS, see this repo [frontend-gallery](https://github.com/measutosh/frontend-gallery)
 
 - 📝 I regularly write articles on [https://measutosh.hashnode.dev](https://measutosh.hashnode.dev)
 
