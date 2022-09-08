@@ -12,11 +12,7 @@
 
 - Built 40 projects in 40days, no framework, pure HTML/CSS/JS, see this repo [frontend-gallery](https://github.com/measutosh/frontend-gallery)
 
-- 📝 I regularly write articles on [https://measutosh.hashnode.dev](https://measutosh.hashnode.dev)
-
-- 💬 Ask me about **DevOps/SRE, Golang, Software Design Patterns**
-
-- 📫 How to reach me **crispyasutoshpanda2@gmail.com**
+- 📝 I occasionally write articles on [https://measutosh.hashnode.dev](https://measutosh.hashnode.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
