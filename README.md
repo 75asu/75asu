@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asutosh Panda</h1>
-<h3 align="center">Passionate about DevOps, SRE, Opensource Enthusiast</h3>
+<h3 align="center">DevOps Engineer by day | Opensource Enthusiast by leisure | Passionate about engineering always</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=measutosh&label=Profile%20views&color=0e75b6&style=flat" alt="measutosh" /> </p>
 
