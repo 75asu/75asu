@@ -2,9 +2,10 @@
 
 
 👨‍💻 DevOps Engineer | Opensource Enthusiast | Passionate about engineering <br>
-☕️ Contributing to Gitlab, Drone, Meshery, Layer5. Find all the contributions - [Merge Request List](https://gitlab.com/measutosh/measutosh/-/blob/main/README.md).<br>
-📚 Learning Golang, DevOps and Cloud Native. Check these repos - [go-gallery](https://github.com/measutosh/go-gallery), [devops-gallery](https://github.com/measutosh/devops-gallery).<br>
-🏗 Built 40 projects in 40days, no framework, pure HTML/CSS/JS, see this repo [frontend-gallery](https://github.com/measutosh/frontend-gallery).<br>
+☕️ Blending in Opensource([contribution list](./cbn-list.md)).<br>
+📚 Learning Golang([go-gallery](https://github.com/measutosh/go-gallery)).<br>
+🔍 Exploring DevOps and Cloud Native([devops-gallery](https://github.com/measutosh/devops-gallery)).<br>
+🏗  #40daysofcode, no framework, pure HTML/CSS/JS([frontend-gallery](https://github.com/measutosh/frontend-gallery)).<br>
 🖋 I occasionally write articles on [hashnode blog](https://measutosh.hashnode.dev).
 
 
