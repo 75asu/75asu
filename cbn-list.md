@@ -14,6 +14,12 @@
 | <a href="https://github.com/layer5io/layer5/pull/3158" target="_blank">#3158</a> | Layer5 | Add the community handbook link for newcomers |
 
 
+## Coding Contributions
+
+| MR no | Repo | Context |
+| ------ | ------ | ------ |
+| <a href="https://gitlab.com/gitlab-org/project-templates/spring/-/merge_requests/42" target="_blank">!42</a> | Gitlab.org | Added environment keyword to deploy job in Spring template project |
+| <a href="https://gitlab.com/gitlab-org/project-templates/static-site-editor-middleman/-/merge_requests/20" target="_blank">!20</a> | Gitlab.org | Added environment keyword to pages job Static Site Editor - Middleman template project |
 
 
 
