@@ -20,6 +20,7 @@
 | ------ | ------ | ------ |
 | <a href="https://gitlab.com/gitlab-org/project-templates/spring/-/merge_requests/42" target="_blank">!42</a> | Gitlab.org | Added environment keyword to deploy job in Spring template project |
 | <a href="https://gitlab.com/gitlab-org/project-templates/static-site-editor-middleman/-/merge_requests/20" target="_blank">!20</a> | Gitlab.org | Added environment keyword to pages job Static Site Editor - Middleman template project |
+| <a href="https://github.com/gitpod-io/gitpod/pull/13557" target="_blank">#13557</a> | Gitpod | Modified the code to make two rows of 4 option on onboarding IDE selector(**Hacktoberfest 2022**) |
 
 
 
