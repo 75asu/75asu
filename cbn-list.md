@@ -13,6 +13,7 @@
 | <a href="https://github.com/meshery/meshery/pull/6184" target="_blank">#6184</a> | Meshery | Fixed the depreciated commands and pre-requisites to setup local dev env|
 | <a href="https://github.com/layer5io/layer5/pull/3158" target="_blank">#3158</a> | Layer5 | Added the community handbook link for newcomers |
 | <a href="https://github.com/kubescape/kubescape/pull/820" target="_blank">#820</a> | Kubescape | Fix typos, linting errors of markdown file |
+| <a href="https://gitlab.com/gitlab-org/gitlab/-/merge_requests/105416#note_1197661121" target="_blank">!105416</a> | Gitlab.org | Replace link to DAG description  | 
 
 
 ## Coding Contributions
