@@ -7,7 +7,8 @@
 - Blending in Opensource([contribution list](./cbn-list.md)).
 - New Interests 
   - MERN and Next. 
-  - Golang and Rust are new interests.
+  - Golang and Rust.
+  - Microservices
   
 - Exploring 
   - DevOps and Cloud Native([devops-gallery](https://github.com/measutosh/devops-gallery)).
