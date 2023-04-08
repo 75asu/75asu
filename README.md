@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asutosh Panda</h1>
+<h1 align="center">I'm Asutosh Panda</h1>
 
 
 > DevOps Engineer | Improving My Craft 
