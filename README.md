@@ -4,7 +4,7 @@
 > DevOps Engineer | Improving My Craft 
 
 - Really good with Automation and CICD tools(that's what I do at my job).
-- Trying new DevOps Scenarios all the time([DevOps Gallery](https://github.com/measutosh/devops-gallery)).
+- Building DevOps Scenarios all the time([DevOps Gallery](https://github.com/measutosh/devops-gallery)).
 - Blending in Opensource([contribution list](./cbn-list.md)).
 - New Interests 
   - MERN and Next. 
