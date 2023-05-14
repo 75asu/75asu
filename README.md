@@ -1,18 +1,20 @@
 <h1 align="center">I'm Asutosh Panda</h1>
+<p align="center">Software Engineer | Golang | MERN | DevOps</p>
 
 
-> DevOps Engineer | Improving My Craft 
+
 
 - Really good with Automation and CICD tools(that's what I do at my job).
 - Building DevOps Scenarios all the time([DevOps Gallery](https://github.com/measutosh/devops-gallery)).
-- Blending in Opensource([contribution list](./cbn-list.md)).
 - New Interests 
   - MERN and Next. 
-  - Golang and Rust.
-  - Microservices
+  - Golang and Rust
+    -  Collection of mini-projects : [rust-gallery](https://github.com/measutosh/rust-gallery)
+    -  Golang implementation of Laravel : [celeritas](https://github.com/measutosh/celeritas) 
   
-- #40daysofcode, no framework, pure HTML/CSS/JS([frontend-gallery](https://github.com/measutosh/frontend-gallery)).
+- #40daysofcode, no framework, pure HTML/CSS/JS, collection of 40 mini-projects ([frontend-gallery](https://github.com/measutosh/frontend-gallery)).
+- Blending in Opensource([contribution list](./cbn-list.md)).
 - I occasionally write articles on [hashnode blog](https://measutosh.hashnode.dev).
-- Here is check my [resume](https://drive.google.com/file/d/1hfvbZVpPZxKl8_h_EhRvTCWmUvPmDuVC/view?usp=sharing)
+- My [resume](https://drive.google.com/file/d/1psNDH6M0PeQAU0JRsccYPaKmAu0ziuGB/view?usp=sharing)
 - Fun fact: I am good at cinematography, film making
 
