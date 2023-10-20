@@ -10,6 +10,6 @@
 - A collection of DevOps Scenarios - [DevOps Gallery](https://github.com/exitAsutosh/devops-gallery).
 - A collection of mini-projects, written in Go - [Go Gallery](https://github.com/exitAsutosh/go-gallery).
 - A collection of mini-projects, written in HTML/CSS/JS - [Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery).
-- My [resume](https://drive.google.com/file/d/1psNDH6M0PeQAU0JRsccYPaKmAu0ziuGB/view?usp=sharing)
+- My [resume](https://drive.google.com/file/d/1NQVimyvleLbaoHkigrpV4A4-Go31aZDR/view?usp=sharing)
 - Fun fact: I am good at cinematography, filmmaking
 
