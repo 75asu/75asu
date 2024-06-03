@@ -1,13 +1,12 @@
 <h1 align="center">I'm Asutosh Panda</h1>
-<p align="center">Software Engineer | Golang | MERN | DevOps</p>
+<p align="center">Software Engineer | Golang | DevOps | MERN</p>
 
 
 
 
-- Really good with Automation and CICD tools(that's what I do at my job).
+- Good with Automation and CICD tools(that's what I do at my job).
+- A mini-project collection, written in Go - [Go Gallery](https://github.com/exitAsutosh/go-gallery).
 - A collection of DevOps Scenarios - [DevOps Gallery](https://github.com/exitAsutosh/devops-gallery).
-- A collection of mini-projects, written in Go - [Go Gallery](https://github.com/exitAsutosh/go-gallery).
-- A collection of mini-projects, written in HTML/CSS/JS - [Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery).
+- A mini-project collection, written in HTML/CSS/JS - [Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery).
 - My [resume](https://drive.google.com/file/d/1JHswQNOhUZL9WkMoc7e5XNwmcc5SAN5u/view?usp=sharing)
-- Fun fact: I am good at cinematography, filmmaking
 
