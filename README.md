@@ -8,5 +8,5 @@
 - A mini-project collection, written in Go - [Go Gallery](https://github.com/exitAsutosh/go-gallery).
 - A collection of DevOps Scenarios - [DevOps Gallery](https://github.com/exitAsutosh/devops-gallery).
 - A mini-project collection, written in HTML/CSS/JS - [Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery).
-- My [resume](https://drive.google.com/file/d/1JHswQNOhUZL9WkMoc7e5XNwmcc5SAN5u/view?usp=sharing)
+- My [resume](https://drive.google.com/file/d/1p3Tftn_4VN59RjvBI9kdKORaLDzr_AqX/view?usp=sharing)
 
