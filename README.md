@@ -1,12 +1,9 @@
 <h1 align="center">I'm Asutosh Panda</h1>
-<p align="center">Software Engineer | Golang | DevOps | MERN</p>
+<p align="center">DevOps/Platform Engineer</p>
 
 
 
-
-- Good with Automation and CICD tools(that's what I do at my job).
-- A mini-project collection, written in Go - [Go Gallery](https://github.com/exitAsutosh/go-gallery).
-- A collection of DevOps Scenarios - [DevOps Gallery](https://github.com/exitAsutosh/devops-gallery).
-- A mini-project collection, written in HTML/CSS/JS - [Frontend Gallery](https://github.com/exitAsutosh/frontend-gallery).
-- My [resume](https://drive.google.com/file/d/1-fRQbdjtJAODu7oK7Qq3Ow_eAR7KOODW/view?usp=sharing)
+- Building Supabase Alternative - [Truss](https://truss.binarysquad.org)
+- Good with Automation and CICD tools(but currently unemployeed).
+- And of course you can hit me with a temp/perm for job offer, here is my [resume](https://drive.google.com/file/d/1-fRQbdjtJAODu7oK7Qq3Ow_eAR7KOODW/view?usp=sharing)
 
