@@ -1,9 +1,9 @@
-<h1 align="center">I'm Asutosh Panda</h1>
-<p align="center">DevOps/Platform Engineer</p>
+# Asutosh Panda
 
+SRE / Platform Engineer. I make infrastructure reliable, and lately I'm figuring out how to do the same for GPUs and inference -- in the open.
 
+- **[frit](https://github.com/75asu/frit)** -- how reliably can a single GPU run the full inference stack? vLLM, DCGM, k3s, SLOs, chaos -- finding out on real hardware.
+- **[platform-zero](https://github.com/75asu/platform-zero)** -- a whole SRE platform from a blank Linux box: GitOps, secrets, observability, IaC.
+- Chipping in on NVIDIA's GPU stack -- [dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter), [gpu-operator](https://github.com/NVIDIA/gpu-operator).
 
-- Building Supabase Alternative - [Truss](https://truss.binarysquad.org)
-- Good with Automation and CICD tools(but currently unemployeed).
-- And of course you can hit me with a temp/perm for job offer, here is my [resume](https://drive.google.com/file/d/1-fRQbdjtJAODu7oK7Qq3Ow_eAR7KOODW/view?usp=sharing)
-
+[75asu.pages.dev](https://75asu.pages.dev) · [linkedin.com/in/75asu](https://linkedin.com/in/75asu) · asutosh.pda@gmail.com
