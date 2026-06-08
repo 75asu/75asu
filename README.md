@@ -6,4 +6,4 @@ SRE / Platform Engineer. I make infrastructure reliable, and lately I'm figuring
 - **[platform-zero](https://github.com/75asu/platform-zero)** -- a whole SRE platform from a blank Linux box: GitOps, secrets, observability, IaC.
 - Chipping in on NVIDIA's GPU stack -- [dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter), [gpu-operator](https://github.com/NVIDIA/gpu-operator).
 
-[75asu.pages.dev](https://75asu.pages.dev) · [linkedin.com/in/75asu](https://linkedin.com/in/75asu) · asutosh.pda@gmail.com
+[Resume](./Asutosh_Panda_Resume.pdf) · [75asu.pages.dev](https://75asu.pages.dev) · [linkedin.com/in/75asu](https://linkedin.com/in/75asu) · asutosh.pda@gmail.com
